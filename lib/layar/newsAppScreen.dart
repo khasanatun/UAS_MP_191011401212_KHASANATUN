@@ -16,7 +16,7 @@ class _NewsAppScreenState extends State<NewsAppScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Center(child: Text("191011401222_YULIAN ISLAM PRAYOGA")),
+          title: const Center(child: Text("191011401212_KHASANATUN")),
         ),
         body: Consumer<NewsProvider>(builder: (context, provider, _) {
           // ignore: dead_code
